@@ -49,6 +49,6 @@ The analysis and recommendations detailed in this project can serve as a valuabl
 
 **Author:** Rohan Rajkumar Tekale
 
-**Date:** [Insert Date]
+**Date:** [29-09-2023]
 
-**GitHub Repository:** [Link to GitHub Repository]
+**GitHub Repository:** [https://github.com/Rorate7/Exploratory-Data-Analysis---Retail]
